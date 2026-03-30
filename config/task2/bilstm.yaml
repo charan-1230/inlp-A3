@@ -1,0 +1,36 @@
+# Data
+data_dir: "data/processed/task2"
+val_split: 0.1
+seed: 42
+
+# Model
+embed_dim: 192
+hidden_dim: 384
+num_layers: 2
+mask_prob: 0.15
+
+# Training
+batch_size: 64
+num_workers: 4
+pin_memory: true
+max_epochs: 20
+learning_rate: 0.0005
+dropout: 0.3
+grad_clip: 1.0
+
+# Early stopping
+patience: 3
+min_delta: 0.0003
+
+# Checkpointing
+checkpoint_path: "outputs/checkpoints/task2_bilstm.pt"
+output_dir: "outputs/results"
+run_tag: "task2_bilstm"
+
+# Logging
+use_wandb: true
+wandb_project: "inlp-a3-task2"
+log_dir: "outputs/logs"
+
+# HuggingFace
+hf_repo_id: "Charan0530/inlp-a3"

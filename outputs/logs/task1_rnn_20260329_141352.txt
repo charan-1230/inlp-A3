@@ -1,0 +1,28 @@
+[Trainer] Log file: outputs/logs/task1_rnn_20260329_141352.txt
+[Trainer] Training on cuda  |  epochs 1→30
+Epoch   1/30 | time=88.6s | train_loss=2.7216  val_loss=3.0999 | train_acc=0.2252  val_acc=0.1120
+  ✓ Checkpoint saved  (val_loss=3.0999)
+Epoch   2/30 | time=86.1s | train_loss=2.6250  val_loss=3.0071 | train_acc=0.2461  val_acc=0.1545
+  ✓ Checkpoint saved  (val_loss=3.0071)
+Epoch   3/30 | time=85.9s | train_loss=2.6050  val_loss=3.0733 | train_acc=0.2516  val_acc=0.1044
+Epoch   4/30 | time=85.8s | train_loss=2.5937  val_loss=2.9862 | train_acc=0.2557  val_acc=0.1545
+  ✓ Checkpoint saved  (val_loss=2.9862)
+Epoch   5/30 | time=85.6s | train_loss=2.6052  val_loss=2.9736 | train_acc=0.2520  val_acc=0.1687
+  ✓ Checkpoint saved  (val_loss=2.9736)
+Epoch   6/30 | time=86.0s | train_loss=2.5970  val_loss=2.9838 | train_acc=0.2549  val_acc=0.1647
+Epoch   7/30 | time=86.4s | train_loss=2.6071  val_loss=2.9725 | train_acc=0.2517  val_acc=0.1691
+  ✓ Checkpoint saved  (val_loss=2.9725)
+Epoch   8/30 | time=86.0s | train_loss=2.6110  val_loss=2.9770 | train_acc=0.2509  val_acc=0.1636
+Epoch   9/30 | time=86.0s | train_loss=2.6161  val_loss=2.9623 | train_acc=0.2492  val_acc=0.1678
+  ✓ Checkpoint saved  (val_loss=2.9623)
+Epoch  10/30 | time=85.5s | train_loss=2.6224  val_loss=2.9816 | train_acc=0.2473  val_acc=0.1498
+Epoch  11/30 | time=86.2s | train_loss=2.6290  val_loss=2.9558 | train_acc=0.2457  val_acc=0.1698
+  ✓ Checkpoint saved  (val_loss=2.9558)
+Epoch  12/30 | time=86.0s | train_loss=2.6402  val_loss=2.9792 | train_acc=0.2422  val_acc=0.1541
+Epoch  13/30 | time=85.8s | train_loss=2.6414  val_loss=3.0470 | train_acc=0.2417  val_acc=0.1286
+Epoch  14/30 | time=85.9s | train_loss=2.6471  val_loss=2.9719 | train_acc=0.2401  val_acc=0.1527
+Epoch  15/30 | time=85.8s | train_loss=2.6604  val_loss=2.9636 | train_acc=0.2363  val_acc=0.1699
+Epoch  16/30 | time=86.2s | train_loss=2.6645  val_loss=3.0054 | train_acc=0.2352  val_acc=0.1312
+[Trainer] Early stopping triggered at epoch 16.
+
+[Trainer] Training complete. Best val_loss=2.9558 @ epoch 11.

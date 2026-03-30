@@ -1,0 +1,54 @@
+[Trainer] Log file: outputs/logs/task1_rnn_20260329_163950.txt
+[Trainer] Training on cuda  |  epochs 1→25
+Epoch   1/25 | time=68.3s | train_loss=2.2664  val_loss=2.1790 | train_acc=0.3226  val_acc=0.3392
+  ✓ Checkpoint saved  (val_loss=2.1790)
+Epoch   2/25 | time=76.0s | train_loss=2.1471  val_loss=2.1054 | train_acc=0.3489  val_acc=0.3617
+  ✓ Checkpoint saved  (val_loss=2.1054)
+Epoch   3/25 | time=63.4s | train_loss=2.0835  val_loss=2.0407 | train_acc=0.3696  val_acc=0.3835
+  ✓ Checkpoint saved  (val_loss=2.0407)
+Epoch   4/25 | time=64.8s | train_loss=2.0247  val_loss=1.9798 | train_acc=0.3885  val_acc=0.4038
+  ✓ Checkpoint saved  (val_loss=1.9798)
+Epoch   5/25 | time=62.3s | train_loss=1.9734  val_loss=1.9327 | train_acc=0.4057  val_acc=0.4185
+  ✓ Checkpoint saved  (val_loss=1.9327)
+Epoch   6/25 | time=58.9s | train_loss=1.9324  val_loss=1.8978 | train_acc=0.4189  val_acc=0.4300
+  ✓ Checkpoint saved  (val_loss=1.8978)
+Epoch   7/25 | time=66.7s | train_loss=1.8991  val_loss=1.8633 | train_acc=0.4295  val_acc=0.4416
+  ✓ Checkpoint saved  (val_loss=1.8633)
+Epoch   8/25 | time=56.8s | train_loss=1.8705  val_loss=1.8609 | train_acc=0.4385  val_acc=0.4401
+  ✓ Checkpoint saved  (val_loss=1.8609)
+Epoch   9/25 | time=63.4s | train_loss=1.8488  val_loss=1.8121 | train_acc=0.4449  val_acc=0.4574
+  ✓ Checkpoint saved  (val_loss=1.8121)
+Epoch  10/25 | time=63.4s | train_loss=1.8256  val_loss=1.7889 | train_acc=0.4520  val_acc=0.4639
+  ✓ Checkpoint saved  (val_loss=1.7889)
+Epoch  11/25 | time=57.6s | train_loss=1.8088  val_loss=1.7765 | train_acc=0.4570  val_acc=0.4674
+  ✓ Checkpoint saved  (val_loss=1.7765)
+Epoch  12/25 | time=62.4s | train_loss=1.7927  val_loss=1.7578 | train_acc=0.4618  val_acc=0.4732
+  ✓ Checkpoint saved  (val_loss=1.7578)
+Epoch  13/25 | time=61.5s | train_loss=1.7776  val_loss=1.7435 | train_acc=0.4662  val_acc=0.4775
+  ✓ Checkpoint saved  (val_loss=1.7435)
+Epoch  14/25 | time=63.6s | train_loss=1.7648  val_loss=1.7277 | train_acc=0.4701  val_acc=0.4826
+  ✓ Checkpoint saved  (val_loss=1.7277)
+Epoch  15/25 | time=54.7s | train_loss=1.7519  val_loss=1.7221 | train_acc=0.4739  val_acc=0.4835
+  ✓ Checkpoint saved  (val_loss=1.7221)
+Epoch  16/25 | time=60.9s | train_loss=1.7400  val_loss=1.7034 | train_acc=0.4776  val_acc=0.4895
+  ✓ Checkpoint saved  (val_loss=1.7034)
+Epoch  17/25 | time=38.9s | train_loss=1.7320  val_loss=1.6954 | train_acc=0.4798  val_acc=0.4912
+  ✓ Checkpoint saved  (val_loss=1.6954)
+Epoch  18/25 | time=38.9s | train_loss=1.7229  val_loss=1.6861 | train_acc=0.4823  val_acc=0.4942
+  ✓ Checkpoint saved  (val_loss=1.6861)
+Epoch  19/25 | time=38.9s | train_loss=1.7130  val_loss=1.6812 | train_acc=0.4856  val_acc=0.4957
+  ✓ Checkpoint saved  (val_loss=1.6812)
+Epoch  20/25 | time=38.9s | train_loss=1.7059  val_loss=1.6718 | train_acc=0.4875  val_acc=0.4989
+  ✓ Checkpoint saved  (val_loss=1.6718)
+Epoch  21/25 | time=39.0s | train_loss=1.6971  val_loss=1.6647 | train_acc=0.4903  val_acc=0.5009
+  ✓ Checkpoint saved  (val_loss=1.6647)
+Epoch  22/25 | time=39.0s | train_loss=1.6909  val_loss=1.6550 | train_acc=0.4919  val_acc=0.5039
+  ✓ Checkpoint saved  (val_loss=1.6550)
+Epoch  23/25 | time=38.9s | train_loss=1.6838  val_loss=1.6472 | train_acc=0.4938  val_acc=0.5062
+  ✓ Checkpoint saved  (val_loss=1.6472)
+Epoch  24/25 | time=39.0s | train_loss=1.6775  val_loss=1.6409 | train_acc=0.4960  val_acc=0.5085
+  ✓ Checkpoint saved  (val_loss=1.6409)
+Epoch  25/25 | time=44.3s | train_loss=1.6716  val_loss=1.6381 | train_acc=0.4976  val_acc=0.5084
+  ✓ Checkpoint saved  (val_loss=1.6381)
+
+[Trainer] Training complete. Best val_loss=1.6381 @ epoch 25.

@@ -1,0 +1,25 @@
+Example 1
+Input :  while yearolds are still gaining most of the attention at the <MASK> gilels horses <MASK> starting to go a bit
+Model :  while they are still on most of the people at the time of of was trying to go a <UNK>
+Masks :  [11]:track, [12]:green, [14]:are
+
+Example 2
+Input :  and jimmy <UNK> has several that can really make it <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Model :  and the <UNK> has many that can always make it <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+Masks :  
+
+Example 3
+Input :  to experience them it is not necessary for a people to be actively aware of what is happening to it
+Model :  to tell them it is not possible for a man to be so because of what is going to it
+Masks :  
+
+Example 4
+Input :  <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Model :  <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+Masks :  
+
+Example 5
+Input :  <MASK> his editors did not abandon their sense of story value <MASK> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Model :  but his wife did not abandon their number of social interest <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+Masks :  [0]:yet, [11]:<EOS>
+

@@ -1,0 +1,36 @@
+
+# Data
+data_dir: "data/processed/task1"
+val_split: 0.1
+seed: 42
+
+# Model
+embed_dim: 128
+hidden_dim: 512
+num_layers: 2
+
+# Training
+batch_size: 256
+num_workers: 4
+pin_memory: true
+max_epochs: 80
+learning_rate: 0.001
+dropout: 0.3
+grad_clip: 1.0
+
+# Early stopping
+patience: 8
+min_delta: 0.0003
+
+# Checkpointing
+checkpoint_path: "outputs/checkpoints/task1_lstm.pt"
+output_dir: "outputs/results"
+run_tag: "task1_lstm"
+
+# Logging
+use_wandb: true
+wandb_project: "inlp-a3-task1"
+log_dir: "outputs/logs"
+
+# HuggingFace (set repo_id to enable push)
+hf_repo_id: "Charan0530/inlp-a3"

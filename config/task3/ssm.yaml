@@ -1,0 +1,39 @@
+# Task 3 Config: LSTM + SSM pipeline
+
+# ---- Task 1 (LSTM Cipher Decryption) ----
+task1:
+  data_dir: "data/processed/task1"
+  embed_dim: 128
+  hidden_dim: 512
+  num_layers: 2
+  dropout: 0.3
+  checkpoint_path: "outputs/checkpoints/task1_lstm_best.pt"
+  hf_repo_id: "Charan0530/inlp-a3"
+  hf_filename: "task1_lstm_best.pt"
+  batch_size: 256
+
+# ---- Task 2 (SSM Next Word Prediction) ----
+task2:
+  type: "ssm"
+  data_dir: "data/processed/task2"
+  embed_dim: 256
+  hidden_dim: 320
+  num_layers: 2
+  dropout: 0.35
+  checkpoint_path: "outputs/checkpoints/task2_ssm_best.pt"
+  hf_repo_id: "Charan0530/inlp-a3"
+  hf_filename: "task2_ssm_best.pt"
+
+# ---- Task 3 Experiment settings ----
+cipher_files:
+  - "data/cipher_01.txt"
+  - "data/cipher_02.txt"
+  - "data/cipher_03.txt"
+  - "data/cipher_04.txt"
+
+ground_truth: "data/plain.txt"
+threshold: 0.05          # replace word if model assigns < 5% probability
+max_words: 20            # chunk size for Task2 vocab encoding
+output_dir: "outputs/results"
+log_dir: "outputs/logs"
+run_tag: "task3_ssm"

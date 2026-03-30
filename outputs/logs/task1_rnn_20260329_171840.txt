@@ -1,0 +1,99 @@
+[Trainer] Log file: outputs/logs/task1_rnn_20260329_171840.txt
+[Trainer] Training on cuda  |  epochs 1→50
+Epoch   1/50 | time=45.4s | train_loss=2.2685  val_loss=2.1769 | train_acc=0.3231  val_acc=0.3399
+  ✓ Checkpoint saved  (val_loss=2.1769)
+Epoch   2/50 | time=45.6s | train_loss=2.1439  val_loss=2.1013 | train_acc=0.3498  val_acc=0.3639
+  ✓ Checkpoint saved  (val_loss=2.1013)
+Epoch   3/50 | time=45.9s | train_loss=2.0797  val_loss=2.0351 | train_acc=0.3708  val_acc=0.3858
+  ✓ Checkpoint saved  (val_loss=2.0351)
+Epoch   4/50 | time=46.3s | train_loss=2.0183  val_loss=1.9754 | train_acc=0.3911  val_acc=0.4050
+  ✓ Checkpoint saved  (val_loss=1.9754)
+Epoch   5/50 | time=46.2s | train_loss=1.9672  val_loss=1.9258 | train_acc=0.4073  val_acc=0.4209
+  ✓ Checkpoint saved  (val_loss=1.9258)
+Epoch   6/50 | time=45.8s | train_loss=1.9258  val_loss=1.8877 | train_acc=0.4207  val_acc=0.4323
+  ✓ Checkpoint saved  (val_loss=1.8877)
+Epoch   7/50 | time=46.5s | train_loss=1.8924  val_loss=1.8507 | train_acc=0.4311  val_acc=0.4449
+  ✓ Checkpoint saved  (val_loss=1.8507)
+Epoch   8/50 | time=46.2s | train_loss=1.8640  val_loss=1.8232 | train_acc=0.4403  val_acc=0.4537
+  ✓ Checkpoint saved  (val_loss=1.8232)
+Epoch   9/50 | time=46.4s | train_loss=1.8414  val_loss=1.8009 | train_acc=0.4471  val_acc=0.4605
+  ✓ Checkpoint saved  (val_loss=1.8009)
+Epoch  10/50 | time=46.5s | train_loss=1.8200  val_loss=1.7818 | train_acc=0.4538  val_acc=0.4665
+  ✓ Checkpoint saved  (val_loss=1.7818)
+Epoch  11/50 | time=46.4s | train_loss=1.8013  val_loss=1.7617 | train_acc=0.4592  val_acc=0.4721
+  ✓ Checkpoint saved  (val_loss=1.7617)
+Epoch  12/50 | time=46.4s | train_loss=1.7852  val_loss=1.7489 | train_acc=0.4640  val_acc=0.4767
+  ✓ Checkpoint saved  (val_loss=1.7489)
+Epoch  13/50 | time=46.3s | train_loss=1.7721  val_loss=1.7378 | train_acc=0.4681  val_acc=0.4795
+  ✓ Checkpoint saved  (val_loss=1.7378)
+Epoch  14/50 | time=46.3s | train_loss=1.7582  val_loss=1.7252 | train_acc=0.4723  val_acc=0.4834
+  ✓ Checkpoint saved  (val_loss=1.7252)
+Epoch  15/50 | time=46.4s | train_loss=1.7469  val_loss=1.7093 | train_acc=0.4757  val_acc=0.4884
+  ✓ Checkpoint saved  (val_loss=1.7093)
+Epoch  16/50 | time=46.2s | train_loss=1.7366  val_loss=1.7000 | train_acc=0.4790  val_acc=0.4908
+  ✓ Checkpoint saved  (val_loss=1.7000)
+Epoch  17/50 | time=46.2s | train_loss=1.7266  val_loss=1.6876 | train_acc=0.4817  val_acc=0.4948
+  ✓ Checkpoint saved  (val_loss=1.6876)
+Epoch  18/50 | time=46.4s | train_loss=1.7181  val_loss=1.6793 | train_acc=0.4843  val_acc=0.4973
+  ✓ Checkpoint saved  (val_loss=1.6793)
+Epoch  19/50 | time=46.4s | train_loss=1.7085  val_loss=1.6750 | train_acc=0.4875  val_acc=0.4991
+  ✓ Checkpoint saved  (val_loss=1.6750)
+Epoch  20/50 | time=46.1s | train_loss=1.7010  val_loss=1.6660 | train_acc=0.4896  val_acc=0.5016
+  ✓ Checkpoint saved  (val_loss=1.6660)
+Epoch  21/50 | time=46.1s | train_loss=1.6928  val_loss=1.6571 | train_acc=0.4922  val_acc=0.5042
+  ✓ Checkpoint saved  (val_loss=1.6571)
+Epoch  22/50 | time=45.9s | train_loss=1.6864  val_loss=1.6454 | train_acc=0.4940  val_acc=0.5078
+  ✓ Checkpoint saved  (val_loss=1.6454)
+Epoch  23/50 | time=45.9s | train_loss=1.6792  val_loss=1.6453 | train_acc=0.4963  val_acc=0.5072
+  ✓ Checkpoint saved  (val_loss=1.6453)
+Epoch  24/50 | time=45.8s | train_loss=1.6708  val_loss=1.6319 | train_acc=0.4989  val_acc=0.5120
+  ✓ Checkpoint saved  (val_loss=1.6319)
+Epoch  25/50 | time=45.8s | train_loss=1.6658  val_loss=1.6333 | train_acc=0.5002  val_acc=0.5111
+Epoch  26/50 | time=46.0s | train_loss=1.6583  val_loss=1.6246 | train_acc=0.5027  val_acc=0.5142
+  ✓ Checkpoint saved  (val_loss=1.6246)
+Epoch  27/50 | time=45.9s | train_loss=1.6524  val_loss=1.6153 | train_acc=0.5041  val_acc=0.5168
+  ✓ Checkpoint saved  (val_loss=1.6153)
+Epoch  28/50 | time=45.9s | train_loss=1.6456  val_loss=1.6106 | train_acc=0.5064  val_acc=0.5179
+  ✓ Checkpoint saved  (val_loss=1.6106)
+Epoch  29/50 | time=45.8s | train_loss=1.6397  val_loss=1.6045 | train_acc=0.5080  val_acc=0.5200
+  ✓ Checkpoint saved  (val_loss=1.6045)
+Epoch  30/50 | time=45.9s | train_loss=1.6342  val_loss=1.6019 | train_acc=0.5098  val_acc=0.5205
+  ✓ Checkpoint saved  (val_loss=1.6019)
+Epoch  31/50 | time=46.0s | train_loss=1.6287  val_loss=1.5929 | train_acc=0.5114  val_acc=0.5233
+  ✓ Checkpoint saved  (val_loss=1.5929)
+Epoch  32/50 | time=46.4s | train_loss=1.6232  val_loss=1.5874 | train_acc=0.5132  val_acc=0.5248
+  ✓ Checkpoint saved  (val_loss=1.5874)
+Epoch  33/50 | time=46.3s | train_loss=1.6193  val_loss=1.5865 | train_acc=0.5144  val_acc=0.5246
+  ✓ Checkpoint saved  (val_loss=1.5865)
+Epoch  34/50 | time=46.1s | train_loss=1.6150  val_loss=1.5810 | train_acc=0.5154  val_acc=0.5273
+  ✓ Checkpoint saved  (val_loss=1.5810)
+Epoch  35/50 | time=46.0s | train_loss=1.6072  val_loss=1.5753 | train_acc=0.5181  val_acc=0.5280
+  ✓ Checkpoint saved  (val_loss=1.5753)
+Epoch  36/50 | time=46.0s | train_loss=1.6046  val_loss=1.5698 | train_acc=0.5188  val_acc=0.5304
+  ✓ Checkpoint saved  (val_loss=1.5698)
+Epoch  37/50 | time=46.0s | train_loss=1.5978  val_loss=1.5626 | train_acc=0.5207  val_acc=0.5323
+  ✓ Checkpoint saved  (val_loss=1.5626)
+Epoch  38/50 | time=45.9s | train_loss=1.5943  val_loss=1.5639 | train_acc=0.5218  val_acc=0.5322
+Epoch  39/50 | time=45.9s | train_loss=1.5903  val_loss=1.5549 | train_acc=0.5231  val_acc=0.5349
+  ✓ Checkpoint saved  (val_loss=1.5549)
+Epoch  40/50 | time=45.8s | train_loss=1.5855  val_loss=1.5504 | train_acc=0.5244  val_acc=0.5358
+  ✓ Checkpoint saved  (val_loss=1.5504)
+Epoch  41/50 | time=45.9s | train_loss=1.5807  val_loss=1.5463 | train_acc=0.5259  val_acc=0.5373
+  ✓ Checkpoint saved  (val_loss=1.5463)
+Epoch  42/50 | time=45.9s | train_loss=1.5764  val_loss=1.5423 | train_acc=0.5274  val_acc=0.5388
+  ✓ Checkpoint saved  (val_loss=1.5423)
+Epoch  43/50 | time=46.0s | train_loss=1.5737  val_loss=1.5403 | train_acc=0.5281  val_acc=0.5395
+  ✓ Checkpoint saved  (val_loss=1.5403)
+Epoch  44/50 | time=45.8s | train_loss=1.5699  val_loss=1.5475 | train_acc=0.5292  val_acc=0.5366
+Epoch  45/50 | time=45.8s | train_loss=1.5662  val_loss=1.5324 | train_acc=0.5301  val_acc=0.5417
+  ✓ Checkpoint saved  (val_loss=1.5324)
+Epoch  46/50 | time=45.8s | train_loss=1.5667  val_loss=1.5316 | train_acc=0.5301  val_acc=0.5411
+  ✓ Checkpoint saved  (val_loss=1.5316)
+Epoch  47/50 | time=45.8s | train_loss=1.5583  val_loss=1.5366 | train_acc=0.5325  val_acc=0.5397
+Epoch  48/50 | time=45.9s | train_loss=1.5558  val_loss=1.5260 | train_acc=0.5332  val_acc=0.5427
+  ✓ Checkpoint saved  (val_loss=1.5260)
+Epoch  49/50 | time=45.7s | train_loss=1.5505  val_loss=1.5152 | train_acc=0.5348  val_acc=0.5467
+  ✓ Checkpoint saved  (val_loss=1.5152)
+Epoch  50/50 | time=45.8s | train_loss=1.5488  val_loss=1.5247 | train_acc=0.5354  val_acc=0.5438
+
+[Trainer] Training complete. Best val_loss=1.5152 @ epoch 49.

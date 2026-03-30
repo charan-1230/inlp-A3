@@ -1,0 +1,49 @@
+======================================================================
+  TASK 3 EXPERIMENT SUMMARY  (lm_type=bilstm)
+  Generated: 2026-03-30 23:54:23
+======================================================================
+
+--- data/cipher_01.txt ---
+Metric                       LSTM only     LSTM+BILSTM
+-------------------------------------------------------
+  char_accuracy                 0.7716          0.1199
+  word_accuracy                 0.0142          0.0003
+  bleu                          0.1880          0.1004
+  rouge1                        0.5398          0.4506
+  rougeL                        0.5394          0.4425
+  avg_levenshtein              22.1420         52.2279
+  perplexity                   54.5834         60.5035
+
+--- data/cipher_02.txt ---
+Metric                       LSTM only     LSTM+BILSTM
+-------------------------------------------------------
+  char_accuracy                 0.6949          0.1080
+  word_accuracy                 0.0140          0.0003
+  bleu                          0.0707          0.0544
+  rouge1                        0.3999          0.3738
+  rougeL                        0.3993          0.3624
+  avg_levenshtein              29.7379         56.9991
+  perplexity                   35.0426         96.5822
+
+--- data/cipher_03.txt ---
+Metric                       LSTM only     LSTM+BILSTM
+-------------------------------------------------------
+  char_accuracy                 0.6292          0.1021
+  word_accuracy                 0.0140          0.0003
+  bleu                          0.0308          0.0322
+  rouge1                        0.3162          0.3234
+  rougeL                        0.3155          0.3103
+  avg_levenshtein              36.2410         60.3165
+  perplexity                   24.4683        164.8938
+
+--- data/cipher_04.txt ---
+Metric                       LSTM only     LSTM+BILSTM
+-------------------------------------------------------
+  char_accuracy                 0.5745          0.0986
+  word_accuracy                 0.0139          0.0003
+  bleu                          0.0147          0.0205
+  rouge1                        0.2636          0.2891
+  rougeL                        0.2627          0.2754
+  avg_levenshtein              41.6232         62.6014
+  perplexity                   19.0688        257.3791
+

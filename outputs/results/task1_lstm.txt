@@ -1,0 +1,15 @@
+GT  : Ive got a quarter of a million Germans in my state and those krautheads tune in on Father Werther every night and if he tells them to go out and piss in the public square thats what they do
+PRED: Ive got a quarter of a million Germans in my state and those srautheads tune in on Father Werther mnery nighr and if he womls thet to he the ton oaee ao the tieeee ofaten tneee toee thet th
+------------------------------------------------------------
+GT  : Not that he gave a damn what the grapevine sent out about Killpaths little speech on the comportment of platoon commanders
+PRED: Not that he gave a damn what the grapevine sent out about Millpaths little speech on the comportment of platoon commanders
+------------------------------------------------------------
+GT  : He flexed his muscles for several minutes got into the tub and then grew selfconscious of splashing as he washed
+PRED: He flexed his muscles for several minutes got into the tub and then grew selfconscious of splashing as he wasued
+------------------------------------------------------------
+GT  : The school year does not end for any student until he has completed his last examination of the semester
+PRED: The school year does not end for any student until he has completed his last examination of the semester
+------------------------------------------------------------
+GT  : Their father is Charles B Armour
+PRED: Their father is Charles B Armour
+------------------------------------------------------------

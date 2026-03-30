@@ -1,0 +1,18 @@
+[Trainer] Log file: outputs/logs/task1_rnn_20260328_200537.txt
+[Trainer] Training on cuda  |  epochs 1→25
+Epoch   1/25 | time=123.5s | train_loss=2.6411  val_loss=3.0039 | train_acc=0.2454  val_acc=0.1487
+  ✓ Checkpoint saved  (val_loss=3.0039)
+Epoch   2/25 | time=123.9s | train_loss=2.5916  val_loss=3.2432 | train_acc=0.2583  val_acc=0.1144
+Epoch   3/25 | time=124.1s | train_loss=2.6037  val_loss=2.9904 | train_acc=0.2549  val_acc=0.1626
+  ✓ Checkpoint saved  (val_loss=2.9904)
+Epoch   4/25 | time=124.1s | train_loss=2.6139  val_loss=2.9684 | train_acc=0.2517  val_acc=0.1709
+  ✓ Checkpoint saved  (val_loss=2.9684)
+Epoch   5/25 | time=123.5s | train_loss=2.6230  val_loss=3.0147 | train_acc=0.2479  val_acc=0.1453
+Epoch   6/25 | time=123.9s | train_loss=2.6397  val_loss=2.9512 | train_acc=0.2433  val_acc=0.1716
+  ✓ Checkpoint saved  (val_loss=2.9512)
+Epoch   7/25 | time=124.1s | train_loss=2.6651  val_loss=3.0141 | train_acc=0.2361  val_acc=0.1412
+Epoch   8/25 | time=123.5s | train_loss=2.6763  val_loss=2.9901 | train_acc=0.2330  val_acc=0.1511
+Epoch   9/25 | time=123.1s | train_loss=2.6920  val_loss=2.9565 | train_acc=0.2286  val_acc=0.1709
+[Trainer] Early stopping triggered at epoch 9.
+
+[Trainer] Training complete. Best val_loss=2.9512 @ epoch 6.

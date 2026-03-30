@@ -1,0 +1,21 @@
+[Trainer] Log file: outputs/logs/task1_rnn_20260329_145031.txt
+[Trainer] Training on cuda  |  epochs 1→30
+Epoch   1/30 | time=88.8s | train_loss=2.7925  val_loss=3.0674 | train_acc=0.2068  val_acc=0.1171
+  ✓ Checkpoint saved  (val_loss=3.0674)
+Epoch   2/30 | time=88.7s | train_loss=2.7088  val_loss=2.9628 | train_acc=0.2224  val_acc=0.1683
+  ✓ Checkpoint saved  (val_loss=2.9628)
+Epoch   3/30 | time=89.0s | train_loss=2.7049  val_loss=2.9527 | train_acc=0.2227  val_acc=0.1696
+  ✓ Checkpoint saved  (val_loss=2.9527)
+Epoch   4/30 | time=89.8s | train_loss=2.6834  val_loss=3.0304 | train_acc=0.2296  val_acc=0.1271
+Epoch   5/30 | time=88.4s | train_loss=2.6950  val_loss=2.9532 | train_acc=0.2254  val_acc=0.1696
+Epoch   6/30 | time=88.3s | train_loss=2.6874  val_loss=2.9594 | train_acc=0.2283  val_acc=0.1704
+Epoch   7/30 | time=88.5s | train_loss=2.6867  val_loss=2.9470 | train_acc=0.2286  val_acc=0.1704
+  ✓ Checkpoint saved  (val_loss=2.9470)
+Epoch   8/30 | time=89.5s | train_loss=2.6898  val_loss=2.9545 | train_acc=0.2278  val_acc=0.1698
+Epoch   9/30 | time=89.4s | train_loss=2.6909  val_loss=2.9552 | train_acc=0.2277  val_acc=0.1704
+Epoch  10/30 | time=90.1s | train_loss=2.6994  val_loss=2.9652 | train_acc=0.2249  val_acc=0.1690
+Epoch  11/30 | time=88.8s | train_loss=2.7022  val_loss=2.9482 | train_acc=0.2242  val_acc=0.1704
+Epoch  12/30 | time=89.1s | train_loss=2.7038  val_loss=2.9549 | train_acc=0.2237  val_acc=0.1697
+[Trainer] Early stopping triggered at epoch 12.
+
+[Trainer] Training complete. Best val_loss=2.9470 @ epoch 7.

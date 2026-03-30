@@ -1,0 +1,35 @@
+# Data
+data_dir: "data/processed/task2"
+val_split: 0.1
+seed: 42
+
+# Model
+embed_dim: 256
+hidden_dim: 320
+num_layers: 2
+
+# Training
+batch_size: 32
+num_workers: 4
+pin_memory: true
+max_epochs: 30
+learning_rate: 0.0004
+dropout: 0.35
+grad_clip: 1.0
+
+# Early stopping
+patience: 6
+min_delta: 0.0001
+
+# Checkpointing
+checkpoint_path: "outputs/checkpoints/task2_ssm.pt"
+output_dir: "outputs/results"
+run_tag: "task2_ssm"
+
+# Logging
+use_wandb: true
+wandb_project: "inlp-a3-task2"
+log_dir: "outputs/logs"
+
+# HuggingFace
+hf_repo_id: "Charan0530/inlp-a3"

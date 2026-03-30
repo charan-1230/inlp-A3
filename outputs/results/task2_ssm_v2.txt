@@ -1,0 +1,25 @@
+Example 1
+Input:    while yearolds are still gaining most of the attention at the track green horses are starting to go a
+Target:   yearolds are still gaining most of the attention at the track green horses are starting to go a bit
+Predict:  the the the in <EOS> <UNK> the <UNK> of the expense of <EOS> <EOS> the to the to <UNK>
+
+Example 2
+Input:    and jimmy <UNK> has several that can really make it <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Target:   jimmy <UNK> has several that can really make it <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Predict:  the the <EOS> been times the be be a <EOS> and <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+
+Example 3
+Input:    to experience them it is not necessary for a people to be actively aware of what is happening to
+Target:   experience them it is not necessary for a people to be actively aware of what is happening to it
+Predict:  the the <EOS> <EOS> not to to the moment of make a <EOS> of the he a <EOS> the
+
+Example 4
+Input:    <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Target:   <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Predict:  and <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+
+Example 5
+Input:    yet his editors did not abandon their sense of story value <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Target:   his editors did not abandon their sense of story value <EOS> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+Predict:  the own <EOS> not the to own of the <EOS> <EOS> and and <EOS> <EOS> <EOS> <EOS> <EOS> <EOS>
+

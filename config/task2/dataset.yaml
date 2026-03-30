@@ -1,0 +1,6 @@
+max_words: 20
+mask_prob: 0.15
+min_freq: 2
+force_reprocess: true
+data_path: "data/plain.txt"
+save_dir: "data/processed/task2/"

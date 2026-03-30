@@ -1,0 +1,15 @@
+GT  : Ive got a quarter of a million Germans in my state and those krautheads tune in on Father Werther every night and if he tells them to go out and pis
+PRED: The  ee                                                                                                                                               
+------------------------------------------------------------
+GT  : Not that he gave a damn what the grapevine sent out about Killpaths little speech on the comportment of platoon commanders
+PRED: The  ee                                                                                                                                               
+------------------------------------------------------------
+GT  : He flexed his muscles for several minutes got into the tub and then grew selfconscious of splashing as he washed
+PRED: The  ee                                                                                                                                               
+------------------------------------------------------------
+GT  : The school year does not end for any student until he has completed his last examination of the semester
+PRED: The  ee                                                                                                                                               
+------------------------------------------------------------
+GT  : Their father is Charles B Armour
+PRED: The  ee                                                                                                                                               
+------------------------------------------------------------
